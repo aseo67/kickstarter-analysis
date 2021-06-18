@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 Module 1 Challenge
-Data Analysis File (Excel) Link: 
-![Screenshot](https://github.com/aseo67/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx.zip)
+Data Analysis File Link: 
+  ![Excel Analysis](https://github.com/aseo67/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx.zip)
 
 ## Overview of Project
 
